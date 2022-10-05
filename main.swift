@@ -4,7 +4,7 @@ var words : [String] = []
 
 var line : String?
 repeat {
-    print("Please enter a word")
+
     line = readLine()
     if line != nil {
         words.append(line!)
