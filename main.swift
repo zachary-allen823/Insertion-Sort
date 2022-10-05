@@ -41,7 +41,7 @@ for i in 0 ..< array.count {
         j -= 1
     }
     
-    print("Pass: \(pass), Swaps: \(swapsThisPass)/\(swaps), Array: \(array)")    
+
     pass += 1
 
 }
